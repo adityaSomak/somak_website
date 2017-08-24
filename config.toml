@@ -126,6 +126,11 @@ defaultContentLanguageInSubdir = false
   #  link = "//twitter.com/GeorgeCushen"
 
   [[params.social]]
+    icon = "download"
+    icon_pack = "fa"
+    link = "https://sites.google.com/site/somakaditya86/SomakAdityaLatestCV.pdf"
+    
+  [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:saditya1@asu.edu"

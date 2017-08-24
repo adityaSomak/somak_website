@@ -15,7 +15,7 @@ weight = 1
     "Machine Learning",
     "Natural Language Processing",
     "Knowledge Representation and Reasoning",
-    "Probabilistic Graphical Modeling"
+    "Probabilistic Logical Reasoning"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -38,6 +38,6 @@ weight = 1
 
 # Biography
 
-I am currently pursuing PhD in Computer Science in CIDSE, Arizona State University. I am working on Image Understanding using a combination of Deep Learning, Commonsense Reasoning and Knowledge Representation Techniques under the supervision of Prof. Chitta Baral. I am also being jointly mentored by Dr. Yezhou Yang (Assistant Professor, ASU). 
+I am currently pursuing PhD in Computer Science in [CIDSE, Arizona State University](http://cidse.engineering.asu.edu/). I am working on Image Understanding using a combination of Deep Learning, Commonsense Reasoning and Knowledge Representation Techniques under the supervision of [Prof. Chitta Baral](http://www.public.asu.edu/~cbaral/). I am also being jointly mentored by [Dr. Yezhou Yang](http://yezhouyang.engineering.asu.edu/) (Assistant Professor, ASU). 
  
-I have completed my Masters (ME) in Computer Science from the Department of CSA in Indian Institute of Science, Bangalore in 2011 with a concentration in Machine Learning under the supervision of Prof. M Narasimha Murty (author of Data Clustering: A Review which has close to 10000 citations). I have done my Bachelors in CS from Jadavpur University in 2009. After a brief stint at Yahoo, I joined Strand Life Sciences where I worked in the NGS team for nearly two and half years before joining ASU to pursue PhD. 
+I have completed my Masters (ME) in Computer Science from the [Department of CSA in Indian Institute of Science, Bangalore](http://www.csa.iisc.ernet.in/) in 2011 with a concentration in Machine Learning under the supervision of [Prof. M Narasimha Murty](http://scholar.google.com/citations?user=VQZTmpcAAAAJ&hl=en) (author of Data Clustering: A Review which has close to 10000 citations). I have done my Bachelors in CS from Jadavpur University in 2009. After a brief stint at Yahoo, I joined Strand Life Sciences where I worked in the NGS team for nearly two and half years before joining ASU to pursue PhD. 

@@ -28,6 +28,10 @@ view = 1
 [[filter]]
   name = "Deep Learning"
   tag = ".deep-learning"
+  
+[[filter]]
+  name = "Probabilistic Soft Logic"
+  tag = ".soft-logic"  
 
 [[filter]]
   name = "Other"

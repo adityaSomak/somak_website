@@ -6,7 +6,7 @@ date = "2016-04-20T00:00:00"
 draft = false
 
 title = "Recent Publications"
-subtitle = ""
+subtitle = "[Search Publications](https://scholar.google.com/citations?user=2shiHpwAAAAJ&hl=en)"
 widget = "publications"
 
 # Order that this section will appear in.
@@ -19,4 +19,5 @@ count = 10
 detailed_list = false
 
 +++
+
 

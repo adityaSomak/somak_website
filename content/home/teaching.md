@@ -5,7 +5,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Teaching"
+title = "Teaching and Mentoring"
 subtitle = ""
 widget = "custom"
 
@@ -19,3 +19,8 @@ I am a teaching instructor for the following courses at Arizona State University
 - CSE-576 Natural Language Processing, Fall 2015 and 2016
 - CSE-471 Introduction To Artificial Intelligence, Spring 2016
 - CSE-310 Data Structures and ALgorithms, Spring 2015
+
+I mentored the following Masters Students:
+
+- Trideep Rath (2016), Graduated, Currently Data Scientist, Kayak
+- Divyanshu Bandil (2016--Present), MS Student, Computer Engineering

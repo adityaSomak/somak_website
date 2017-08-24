@@ -12,7 +12,7 @@ summary = "We build a semantic parser to extract semantic knowledge from natural
 image_preview = "headers/kp.png"
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "other"]`
+# Example: `tags = ["other"]`
 tags = ["demo"]
 
 # Optional external URL for project (replaces project detail page).

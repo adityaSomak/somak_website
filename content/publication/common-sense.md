@@ -2,7 +2,7 @@
 abstract = ""
 abstract_short = ""
 authors = ["Somak Aditya", "Yezhou Yang", "Chitta Baral", "Cornelia Fermuller", "Yiannis Aloimonos"]
-date = "2013-07-01"
+date = "2015-03-12"
 image_preview = ""
 math = true
 publication_types = ["1"]
@@ -11,12 +11,8 @@ publication_short = "In *AAAI Spring Symposium*"
 selected = true
 title = "Visual common-sense for scene understanding using perception, semantic parsing and reasoning."
 url_pdf = "http://www.public.asu.edu/~cbaral/papers/cs2015vision.pdf"
-url_project = "project/deep-learning/"
-url_slides = "#"
-
-[[url_custom]]
-name = "Custom Link"
-url = "http://www.example.org"
+url_project = "#"
+url_slides = "pdf/commonsense15.pdf"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
@@ -25,4 +21,12 @@ caption = "My caption :smile:"
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+In this paper we explore the use of visual commonsense
+knowledge and other kinds of knowledge (such as
+domain knowledge, background knowledge, linguistic
+knowledge) for scene understanding. In particular, we
+combine visual processing with techniques from natural
+language understanding (especially semantic parsing),
+common-sense reasoning and knowledge representation
+and reasoning to improve visual perception to reason
+about finer aspects of activities

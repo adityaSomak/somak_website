@@ -1,6 +1,6 @@
 baseurl = "https://somakaditya.github.io/"  # End your URL with a `/` trailing slash.
 title = "Somak Aditya"
-copyright = "&copy; 2016 Somak Aditya"
+copyright = "&copy; 2017 Somak Aditya"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -24,7 +24,7 @@ defaultContentLanguageInSubdir = false
   organization = "Arizona State University"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "profilepic.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "saditya1@asu.edu"
   address = "699 S. Mill Ave, BYENG 5th Floor,Arizona State University, Tempe, 85281, USA"
   phone = "480 275 9633"

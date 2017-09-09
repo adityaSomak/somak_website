@@ -22,4 +22,14 @@ caption = "My caption :smile:"
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+In this work, we explore a genre of puzzles (“image riddles”) which involves a set of images and a question. 
+Answering these puzzles require both capabilities involving visual detection (including object, activity recognition) and, 
+knowledge-based or commonsense reasoning. We compile a dataset of over 3k riddles where each riddle consists of 4 images and 
+a groundtruth answer. The annotations are validated using crowd-sourced evaluation. We also define an automatic evaluation 
+metric to track future progress. Our task bears similarity with the commonly known IQ tasks such as analogy solving, 
+sequence filling that are often used to test intelligence.
+
+We develop a Probabilistic Reasoning-based approach that utilizes probabilistic commonsense knowledge to answer these 
+riddles with a reasonable accuracy. We demonstrate the results of our approach using both automatic and human evaluations. 
+Our approach achieves some promising results ($12\%$ improvement over baseline) for these riddles and provides a strong baseline for future attempts. We make 
+the entire dataset and related materials publicly available to the community.

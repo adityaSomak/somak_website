@@ -20,7 +20,10 @@ I am a teaching instructor for the following courses at Arizona State University
 - CSE-471 Introduction To Artificial Intelligence, Spring 2016
 - CSE-310 Data Structures and ALgorithms, Spring 2015
 
-I mentored the following Masters Students:
+I mentored and collaborated with the following Masters Students:
 
-- Trideep Rath (2016), Graduated, Currently Data Scientist, Kayak
+- Rudra Saha (2017--Present), MS Student, Computer Science, ASU
 - Divyanshu Bandil (2016--Present), MS Student, Computer Engineering
+   - Visual Question Categorization. 
+   - Visual Question Answering in Dynamic Environments
+- Trideep Rath (2016), Graduated, Currently Data Scientist, Kayak

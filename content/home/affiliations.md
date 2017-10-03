@@ -13,7 +13,6 @@ widget = "custom"
 weight = 70
 
 +++
-
 Research & Development groups
 
 - BioAI lab, Arizona State University 
@@ -24,7 +23,8 @@ Industrial Organizations
 
 - Cognitive Analytics and Machine Learning Research Intern, JDE, Verisk Analytics
 under [Dr. Maneesh Singh](https://www.linkedin.com/in/maneesh-singh-phd-3523ab9/), Director, Cognitive Analytics
-- Research Intern, [IBM Research Labs, India, Delhi](http://www.research.ibm.com/labs/india/)
+- Research Intern, [IBM Research Labs, India, Delhi](http://www.research.ibm.com/labs/india/) 
+under [Dr. Arun Kumar](http://researcher.watson.ibm.com/researcher/view.php?person=in-kkarun), Cognitive Solutions
 - Specialist Software Engineer, [Strand Life Sciences Pvt. Ltd.](http://www.strandls.com/us/)
 - Senior Software Engineer, [Yahoo! India](https://in.yahoo.com/)
 
@@ -35,3 +35,5 @@ Universities
 - [Indian Institute of Science, Bangalore. India](http://www.csa.iisc.ernet.in/)
     - IISc Bangalore Makes Indian Debut in top 100 World university (THE ranking). Read [Here](http://indianexpress.com/article/india/india-news-india/iisc-makes-indian-debut-in-top-100-world-university-ranking/).
 - [Department of Computer Science, Jadavpur University](http://www.jaduniv.edu.in/htdocs/view_department.php?deptid=59)
+
+{{< figure src="/img/affiliations.png" title="" width="80%">}}

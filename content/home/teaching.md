@@ -26,4 +26,5 @@ I mentored and collaborated with the following Masters Students:
 - Divyanshu Bandil (2016--Present), MS Student, Computer Engineering
    - Visual Question Categorization. 
    - Visual Question Answering in Dynamic Environments
-- Trideep Rath (2016), Graduated, Currently Data Scientist, Kayak
+- Trideep Rath (2015 -- 2017), Graduated, MS, Computer Science, ASU Currently Data Scientist, Kayak
+   - [Word and Relation Embedding for Sentence Representation](https://repository.asu.edu/attachments/186590/content/Rath_asu_0010N_17130.pdf)

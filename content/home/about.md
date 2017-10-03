@@ -20,17 +20,17 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD Candidate in NLP/CV/AI"
+  course = "PhD Candidate in Computer Science"
   institution = "Arizona State University"
   year = 2014
 
 [[education.courses]]
-  course = "MEng in Computer Science"
+  course = "ME in Computer Science"
   institution = "Indian Institute of Science, Bangalore"
   year = 2011
 
 [[education.courses]]
-  course = "BEng in Computer Science"
+  course = "BE in Computer Science"
   institution = "Jadavpur University, Kolkata"
   year = 2009
  

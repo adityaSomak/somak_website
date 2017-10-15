@@ -13,7 +13,18 @@ widget = "custom"
 weight = 10
 
 +++
-<div style="height:640px;width:750px;font:25px/30px;font-face: Inherit;overflow:auto;">
+<script>
+    (function($){
+        $(window).on("load",function(){
+            $("body").mCustomScrollbar({
+				theme:"inset-dark",
+				mouseWheel:{enable:true}
+            });
+        });
+    })(jQuery);
+</script>
+
+<div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:640px;width:750px;font:25px/30px;font-face: Inherit; overflow:auto;">
   :star: <span style="font-weight: bold;">[July 2017]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> Work on Image Riddles accepted as Extended Abstract on <a href="http://www.visionmeetscognition.org/schedule.html">Vision Meets Cognition Workshop, CVPR 2017</a>.
 <br/><br/>
 :star: <span style="font-weight: bold;">[May 2017]</span>  <font color="red"> !NEW! :hotsprings: :hotsprings:</font> Thesis proposal accepted, and officially advanced to candidacy.

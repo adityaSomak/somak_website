@@ -84,8 +84,8 @@ defaultContentLanguageInSubdir = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
-  custom_js  = []
+  custom_css = ["jquery.mCustomScrollbar.css"]
+  custom_js  = ["jquery.mCustomScrollbar.min.js", "jquery-1.11.0.min.js"]
 
   # Publication types.
   #   Used to categorize publications.

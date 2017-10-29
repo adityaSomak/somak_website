@@ -14,9 +14,11 @@ weight = 60
 
 +++
 
-I am a teaching instructor for the following courses at Arizona State University:
+I have served as a teaching assistant for the following courses at Arizona State University:
 
-- CSE-576 Natural Language Processing, Fall 2015 and 2016
+- CSE-576 Natural Language Processing, Fall 2015 and Fall 2016
+   - Responsibilities included: Creating Homework assignments, proposing class projects, and mentoring
+multiple groups.
 - CSE-471 Introduction To Artificial Intelligence, Spring 2016
 - CSE-310 Data Structures and ALgorithms, Spring 2015
 
@@ -27,4 +29,4 @@ I mentored and collaborated with the following Masters Students:
    - Visual Question Categorization. 
    - Visual Question Answering in Dynamic Environments
 - Trideep Rath (2015 -- 2017), Graduated, MS, Computer Science, ASU Currently Data Scientist, Kayak
-   - [Word and Relation Embedding for Sentence Representation](https://repository.asu.edu/attachments/186590/content/Rath_asu_0010N_17130.pdf)
+   - Thesis: [Word and Relation Embedding for Sentence Representation](https://repository.asu.edu/attachments/186590/content/Rath_asu_0010N_17130.pdf)

@@ -128,7 +128,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "download"
     icon_pack = "fa"
-    link = "https://sites.google.com/site/somakaditya86/SomakAdityaLatestCV.pdf"
+    link = "pdf/somakaditya-latestcv.pdf"
     
   [[params.social]]
     icon = "envelope"

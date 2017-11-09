@@ -25,11 +25,13 @@ weight = 10
 </script>
 
 <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:640px;width:750px;font:25px/30px;font-face: Inherit; overflow:auto;">
+:star: <span style="font-weight: bold;">[Nov 2017]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> Our Work on Explicit Reasoning over End-To-End Neural Architectures has been accepted in <b>AAAI 2018 (Acceptance Rate: 24.5%)</b>.
+<br/><br/>
   :star: <span style="font-weight: bold;">[July 2017]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> Work on Image Riddles accepted as Extended Abstract on <a href="http://www.visionmeetscognition.org/schedule.html">Vision Meets Cognition Workshop, CVPR 2017</a>.
 <br/><br/>
-:star: <span style="font-weight: bold;">[May 2017]</span>  <font color="red"> !NEW! :hotsprings: :hotsprings:</font> Thesis proposal accepted, and officially advanced to candidacy.
+:star: <span style="font-weight: bold;">[May 2017]</span>  Thesis proposal accepted, and officially advanced to candidacy.
 <br/><br/>
-:star: <span style="font-weight: bold;">[May 2017]</span>  <font color="red"> !NEW! :hotsprings: </font> Joined JDE, Verisk Analytics as Cognitive Analytics and Machine Learning Research Intern, under Dr. Maneesh Singh, Director, JDE, Cognitive Analytics.
+:star: <span style="font-weight: bold;">[May 2017]</span>  Joined JDE, Verisk Analytics as Cognitive Analytics and Machine Learning Research Intern, under Dr. Maneesh Singh, Director, JDE, Cognitive Analytics.
 <br/><br/>
 :star: <span style="font-weight: bold;">[May 2017]</span> Unofficially a Ph.D. Candidate, after successfully defending my proposal on "Knowledge and Reasoning in Image Understanding".
 <br/><br/>

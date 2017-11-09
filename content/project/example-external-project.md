@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2016-11-27"
 
 # Project title.
 title = "From Images to Sentences"

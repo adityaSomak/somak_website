@@ -2,7 +2,7 @@
 abstract = ""
 abstract_short = ""
 authors = ["Somak Aditya", "Yezhou Yang", "Chitta Baral", "Cornelia Fermuller", "Yiannis Aloimonos"]
-date = "2013-07-01"
+date = "2016-06-01"
 image_preview = ""
 math = true
 publication_types = ["1"]

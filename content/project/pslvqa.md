@@ -16,7 +16,7 @@ image_preview = "headers/VQAFigure.png"
 tags = ["deep-learning", "soft-logic"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://www.public.asu.edu/~cbaral/papers/2018-aaai-psl.pdf"
+external_link = "visionandreasoning.wordpress.com"
 
 # Does the project detail page use math formatting?
 math = false

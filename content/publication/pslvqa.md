@@ -11,7 +11,7 @@ publication_short = "In *AAAI 2018*"
 selected = true
 title = "Explicit Reasoning over End-to-End Neural Architectures"
 url_pdf = "http://www.public.asu.edu/~cbaral/papers/2018-aaai-psl.pdf"
-url_project = ""
+url_project = "https://visionandreasoning.wordpress.com"
 # url_slides = "#"
 
 

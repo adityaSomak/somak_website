@@ -9,7 +9,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-109915713-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Somak Aditya"
-  role = "PhD Candidate, Computer Science"
+  role = "Ph.D. Candidate, Computer Science"
   organization = "Arizona State University"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)

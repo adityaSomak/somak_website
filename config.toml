@@ -1,6 +1,6 @@
 baseurl = "https://adityasomak.github.io/"  # End your URL with a `/` trailing slash.
 title = "Somak Aditya"
-copyright = "&copy; 2017 Somak Aditya"
+copyright = ""
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -85,7 +85,7 @@ defaultContentLanguageInSubdir = false
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
   custom_css = ["jquery.mCustomScrollbar.css"]
-  custom_js  = ["jquery.mCustomScrollbar.min.js", "jquery-1.11.0.min.js"]
+  custom_js  = ["jquery.mCustomScrollbar.concat.min.js", "jquery-1.11.0.min.js"]
 
   # Publication types.
   #   Used to categorize publications.
@@ -144,6 +144,11 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//gitlab.com/somakaditya"
+    
+    [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/somak-aditya-3566339/"
 
 
 # Navigation Links

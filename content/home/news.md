@@ -18,18 +18,25 @@ weight = 10
         $(window).on("load",function(){
             $("body").mCustomScrollbar({
 				theme:"inset-dark",
-				mouseWheel:{enable:true}
+				scrollInertia:300,
+				mouseWheel:{ enable: true }
             });
         });
     })(jQuery);
 </script>
 
 <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:640px;width:750px;font:25px/30px;font-face: Inherit; overflow:auto;">
-:star: <span style="font-weight: bold;">[Nov 2017]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> Our Work on Explicit Reasoning over End-To-End Neural Architectures has been accepted in <b>AAAI 2018 (Acceptance Rate: 24.5%, 933 accepted out of 3.8k)</b>.
+:star: <span style="font-weight: bold;">[Dec 2017]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> Our accepted manuscript in CVIU is now available online: <a href="http://www.sciencedirect.com/science/article/pii/S1077314217302291">"Image Understanding using Vision and Reasoning through Scene Description Graph"</a>
 <br/><br/>
-:star: <span style="font-weight: bold;">[Oct 2017]</span>  <span style="color:red;"> !NEW! :hotsprings: </span> Invited as a reviewer for The Visual Computer journal.
+:star: <span style="font-weight: bold;">[Dec 2017]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> Our work "Image Understanding using Vision and Reasoning through Scene Description Graph" has been accepted in the reputed <b>Computer Vision and Image Understanding (CVIU)</b> journal.
 <br/><br/>
-  :star: <span style="font-weight: bold;">[July 2017]</span>  <span style="color:red;"> !NEW! :hotsprings: </span> Work on Image Riddles accepted as Extended Abstract on <a href="http://www.visionmeetscognition.org/schedule.html">Vision Meets Cognition Workshop, CVPR 2017</a>.
+:star: <span style="font-weight: bold;">[Nov 2017]</span>  <span style="color:red;"> !NEW! :hotsprings: </span> <a href="http://www.visionandreasoning.wordpress.com">Vision and Reasoning Website</a> is live.</b>.
+<br/><br/>
+:star: <span style="font-weight: bold;">[Nov 2017]</span>  <span style="color:red;"> !NEW! :hotsprings: </span> Our Work on Explicit Reasoning over End-To-End Neural Architectures has been accepted in <b>AAAI 2018 (Acceptance Rate: 24.5%, 933 accepted out of 3.8k)</b>.
+<br/><br/>
+:star: <span style="font-weight: bold;">[Oct 2017]</span>  Invited as a reviewer for The Visual Computer journal.
+<br/><br/>
+  :star: <span style="font-weight: bold;">[July 2017]</span>  Work on Image Riddles accepted as Extended Abstract on <a href="http://www.visionmeetscognition.org/schedule.html">Vision Meets Cognition Workshop, CVPR 2017</a>.
 <br/><br/>
 :star: <span style="font-weight: bold;">[May 2017]</span>  Thesis proposal accepted, and officially advanced to candidacy.
 <br/><br/>

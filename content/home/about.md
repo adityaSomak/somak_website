@@ -9,6 +9,18 @@ widget = "about"
 # Order that this section will appear in.
 weight = 1
 
+[[ads.inds]]
+ url = "https://visionandreasoning.wordpress.com/"
+ text = "Vision and Reasoning (AAAI) " 
+ 
+[[ads.inds]]
+ url = "https://imagesdg.wordpress.com/image-to-scene-description-graph/"
+ text = "SDG From Image (CVIU, ACS) " 
+
+[[ads.inds]]
+ url = "https://imageriddle.wordpress.com/imageriddle/"
+ text = "Image Riddles "
+   
 # List your academic interests.
 [interests]
   interests = [
@@ -38,6 +50,6 @@ weight = 1
 
 # Biography
 
-I am currently pursuing PhD in Computer Science in [CIDSE, Arizona State University](http://cidse.engineering.asu.edu/). I am working on Image Understanding using a combination of Deep Learning, Commonsense Reasoning and Knowledge Representation Techniques under the supervision of [Prof. Chitta Baral](http://www.public.asu.edu/~cbaral/) (President of KR.inc, 2016-Present). I am also being jointly mentored by [Dr. Yezhou Yang](http://yezhouyang.engineering.asu.edu/) (Assistant Professor, ASU). 
+I am currently a Final Year Ph.D. candidate in Computer Science in [CIDSE, Arizona State University](http://cidse.engineering.asu.edu/). I am working on Image Understanding using a combination of Deep Learning, Commonsense Reasoning and Knowledge Representation Techniques under the supervision of [Prof. Chitta Baral](http://www.public.asu.edu/~cbaral/) (President of KR.inc, 2016-Present). I am also being jointly mentored by [Dr. Yezhou Yang](http://yezhouyang.engineering.asu.edu/) (Assistant Professor, ASU). 
  
 I have completed my Masters (ME) in Computer Science from the [Department of CSA in Indian Institute of Science, Bangalore](http://www.csa.iisc.ernet.in/) in 2011 with a concentration in Machine Learning under the supervision of [Prof. M Narasimha Murty](http://scholar.google.com/citations?user=VQZTmpcAAAAJ&hl=en) (Dean, Faculty of Engineering, IISc and author of Data Clustering: A Review which has more than 13,000 citations). I have done my Bachelors in CS from Jadavpur University in 2009. After a brief stint at Yahoo, I joined Strand Life Sciences where I worked in the NGS team for nearly two and half years before joining ASU to pursue PhD. 

@@ -26,13 +26,25 @@ weight = 10
 </script>
 
 <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:640px;width:750px;font:25px/30px;font-face: Inherit; overflow:auto;">
-:star: <span style="font-weight: bold;">[Dec 2017]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> Our accepted manuscript in CVIU is now available online: <a href="http://www.sciencedirect.com/science/article/pii/S1077314217302291">"Image Understanding using Vision and Reasoning through Scene Description Graph"</a>
+:star: <span style="font-weight: bold;">[May 2018]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> Invited as a reviewer in Robotics and Autonomus Systems journal.
 <br/><br/>
-:star: <span style="font-weight: bold;">[Dec 2017]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> Our work "Image Understanding using Vision and Reasoning through Scene Description Graph" has been accepted in the reputed <b>Computer Vision and Image Understanding (CVIU)</b> journal.
+:star: <span style="font-weight: bold;">[May 2018]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> Our <a href="https://sites.google.com/view/r2k2018/home">Workshop Website</a> is live!
 <br/><br/>
-:star: <span style="font-weight: bold;">[Nov 2017]</span>  <span style="color:red;"> !NEW! :hotsprings: </span> <a href="http://www.visionandreasoning.wordpress.com">Vision and Reasoning Website</a> is live.</b>.
+:star: <span style="font-weight: bold;">[Mar 2018]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> We are organizing the first workshop on "Induce and Deduce: Integrating learning of representations and models with deductive, explainable reasoning that leverages knowledge" in KR 2018 (Phoenix, 27-29 Oct). Website coming soon!
 <br/><br/>
-:star: <span style="font-weight: bold;">[Nov 2017]</span>  <span style="color:red;"> !NEW! :hotsprings: </span> Our Work on Explicit Reasoning over End-To-End Neural Architectures has been accepted in <b>AAAI 2018 (Acceptance Rate: 24.5%, 933 accepted out of 3.8k)</b>.
+:star: <span style="font-weight: bold;">[Mar 2018]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> I am awarded the University Graduate Fellowship for Spring 2018 for the third time. Thank you ASU, CIDSE!
+<br/><br/>
+:star: <span style="font-weight: bold;">[Feb 2018]</span>  Presented our work on "Explicit Reasoning over End-to-End Neural Architectures" in AAAI 2018.
+<br/><br/>
+:star: <span style="font-weight: bold;">[Jan 2018]</span>  Presented our work on "Explicit Reasoning over End-to-End Neural Architectures" in ASU SouthWest Robotics Symposium. The work was nominated for Best Abstract award.
+<br/><br/>
+:star: <span style="font-weight: bold;">[Dec 2017]</span>  Our accepted manuscript in CVIU is now available online: <a href="http://www.sciencedirect.com/science/article/pii/S1077314217302291">"Image Understanding using Vision and Reasoning through Scene Description Graph"</a>
+<br/><br/>
+:star: <span style="font-weight: bold;">[Dec 2017]</span>  Our work "Image Understanding using Vision and Reasoning through Scene Description Graph" has been accepted in the reputed <b>Computer Vision and Image Understanding (CVIU)</b> journal.
+<br/><br/>
+:star: <span style="font-weight: bold;">[Nov 2017]</span>  Our Work on Explicit Reasoning over End-To-End Neural Architectures has been accepted in <b>AAAI 2018 (Acceptance Rate: 24.5%, 933 accepted out of 3.8k)</b>.
+<br/><br/>
+:star: <span style="font-weight: bold;">[Nov 2017]</span>  <a href="http://www.visionandreasoning.wordpress.com">Vision and Reasoning Website</a> is live.</b>
 <br/><br/>
 :star: <span style="font-weight: bold;">[Oct 2017]</span>  Invited as a reviewer for The Visual Computer journal.
 <br/><br/>

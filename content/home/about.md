@@ -10,16 +10,20 @@ widget = "about"
 weight = 1
 
 [[ads.inds]]
+ url = "https://sites.google.com/view/r2k2018/home"
+ text = "R2K Workshop (KR-2018) " 
+ 
+[[ads.inds]]
  url = "https://visionandreasoning.wordpress.com/"
- text = "Vision and Reasoning (AAAI) " 
+ text = "Vision and Reasoning (AAAI '17) " 
  
 [[ads.inds]]
  url = "https://imagesdg.wordpress.com/image-to-scene-description-graph/"
- text = "SDG From Image (CVIU, ACS) " 
+ text = "SDG From Image (CVIU '17, ACS) " 
 
 [[ads.inds]]
  url = "https://imageriddle.wordpress.com/imageriddle/"
- text = "Image Riddles "
+ text = "Image Riddles (UAI '18) "
    
 # List your academic interests.
 [interests]

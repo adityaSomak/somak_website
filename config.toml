@@ -143,7 +143,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//gitlab.com/somakaditya"
+    link = "//github.com/adityaSomak"
     
     [[params.social]]
     icon = "linkedin"
@@ -177,19 +177,24 @@ defaultContentLanguageInSubdir = false
   weight = 4
 
 [[menu.main]]
+  name = "Softwares"
+  url = "#softwares"
+  weight = 5
+  
+[[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 6
 
 [[menu.main]]
   name = "Affiliations"
   url = "#affiliations"
-  weight = 6
+  weight = 7
   
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 8
 
 # Taxonomies.
 [taxonomies]

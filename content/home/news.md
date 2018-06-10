@@ -26,15 +26,19 @@ weight = 10
 </script>
 
 <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:640px;width:750px;font:25px/30px;font-face: Inherit; overflow:auto;">
-:star: <span style="font-weight: bold;">[May 2018]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> Our paper on Image Riddles was accepted in UAI 2018.
+:star: <span style="font-weight: bold;">[June 2018]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> Published the Image Riddles code for public use that was used in UAI-18 work. Visit <a href="https://github.com/adityaSomak/ImageRiddleSolving">Github</a>.
+<br/><br/>
+:star: <span style="font-weight: bold;">[June 2018]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> Published the PSL engine code for public use that was used in AAAI-18 work. Visit <a href="https://github.com/adityaSomak/PSLQA">Github</a>.
+<br/><br/>
+:star: <span style="font-weight: bold;">[May 2018]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> Our paper on Image Riddles is accepted in <a href="http://auai.org/uai2018/index.php">UAI 2018</a> (30% acceptance rate).
 <br/><br/>
 :star: <span style="font-weight: bold;">[May 2018]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> Invited as a reviewer in Robotics and Autonomus Systems journal.
 <br/><br/>
 :star: <span style="font-weight: bold;">[May 2018]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> Our <a href="https://sites.google.com/view/r2k2018/home">Website</a> for KR-2018 workshop is live! Please consider submitting to the workshop.
 <br/><br/>
-:star: <span style="font-weight: bold;">[Mar 2018]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> We are organizing the first workshop on "Induce and Deduce: Integrating learning of representations and models with deductive, explainable reasoning that leverages knowledge" in KR 2018 (Phoenix, 27-29 Oct). Website coming soon!
+:star: <span style="font-weight: bold;">[Mar 2018]</span>  We are organizing the first workshop on "Induce and Deduce: Integrating learning of representations and models with deductive, explainable reasoning that leverages knowledge" in KR 2018 (Phoenix, 27-29 Oct). Website coming soon!
 <br/><br/>
-:star: <span style="font-weight: bold;">[Mar 2018]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> I am awarded the University Graduate Fellowship for Spring 2018 for the third time. Thank you ASU, CIDSE!
+:star: <span style="font-weight: bold;">[Mar 2018]</span>  I am awarded the University Graduate Fellowship for Spring 2018 for the third time. Thank you ASU, CIDSE!
 <br/><br/>
 :star: <span style="font-weight: bold;">[Feb 2018]</span>  Presented our work on "Explicit Reasoning over End-to-End Neural Architectures" in AAAI 2018.
 <br/><br/>

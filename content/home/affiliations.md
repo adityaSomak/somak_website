@@ -17,7 +17,7 @@ Research & Development groups
 
 - BioAI lab, Arizona State University 
 - [Active Perception Group](http://yezhouyang.engineering.asu.edu/research-group/), Arizona State University (Closely Affiliated with)
-- Computer Vision Lab, UMIACS, University of Maryland, College Park (closely collaborated with Prof. Yiannis Aloimonos, Dr. Cornelia Fermuller on several projects)
+- [Perception and Robotics Group](http://prg.cs.umd.edu/), UMIACS, University of Maryland, College Park (closely collaborated with Prof. Yiannis Aloimonos, Dr. Cornelia Fermuller on several projects)
 
 Industrial Organizations
 

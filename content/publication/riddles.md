@@ -2,15 +2,15 @@
 abstract = ""
 abstract_short = ""
 authors = ["Somak Aditya", "Yezhou Yang", "Chitta Baral", "Yiannis Aloimonos"]
-date = "2016-11-17"
+date = "2018-07-01"
 image_preview = ""
 math = true
 publication_types = ["1"]
-publication = "In ArXiv Preprint. 2015"
-publication_short = "In *arXiv preprint arXiv:1611.05896*"
+publication = "In UAI. 2018"
+publication_short = "In *UAI 2018*"
 selected = true
-title = "Answering Image Riddles using Vision and Reasoning through Probabilistic Soft Logic"
-url_pdf = "https://arxiv.org/pdf/1611.05896v1.pdf"
+title = "Combining Knowledge and Reasoning through Probabilistic Soft Logic for Image Puzzle Solving"
+url_pdf = "http://auai.org/uai2018/proceedings/papers/83.pdf"
 url_project = "https://imageriddle.wordpress.com/imageriddle/"
 # url_slides = "#"
 

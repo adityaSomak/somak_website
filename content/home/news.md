@@ -26,14 +26,24 @@ weight = 10
 </script>
 
 <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:640px;width:750px;font:25px/30px;font-face: Inherit; overflow:auto;">
-:star: <span style="font-weight: bold;">[Nov 2018]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> Our work on "Spatial Knowledge Distillation on Visual Reasoning" got accepted in WACV 2019!
+:star: <span style="font-weight: bold;">[Sep 2019]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> Knowledge Graph Research appears in <a href="https://research.adobe.com/news/knowledge-graphs-turning-complex-information-into-helpful-answers/">Adobe News</a> !
 <br/><br/>
-:star: <span style="font-weight: bold;">[Oct 2018]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> We had a successful workshop filled with intersting talks from researchers from University of Leeds, IBM Research US, University of Adelaide and Army Research Lab. Their
+:star: <span style="font-weight: bold;">[Aug 2019]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> Invited as an AAAI 2020 PC Member!
+<br/><br/>
+:star: <span style="font-weight: bold;">[Aug 2019]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> Invited as an IJCAI DC Career Panelist!
+<br/><br/>
+:star: <span style="font-weight: bold;">[Aug 2019]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> Our work on <a href="https://www.ijcai.org/proceedings/2019/0873.pdf">Integrating Knowledge and Reasoning in Image Understanding"</a> got accepted in IJCAI 2019 Survey!
+<br/><br/>
+:star: <span style="font-weight: bold;">[May 2019]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> First patent on Marketing Knowledge Graph Creation approved!
+<br/><br/>
+:star: <span style="font-weight: bold;">[Nov 2018]</span> Our work on "Spatial Knowledge Distillation on Visual Reasoning" got accepted in WACV 2019!
+<br/><br/>
+:star: <span style="font-weight: bold;">[Oct 2018]</span> We had a successful workshop filled with intersting talks from researchers from University of Leeds, IBM Research US, University of Adelaide and Army Research Lab. Their
 talks are avaibale at: <a href="https://sites.google.com/view/r2k2018/schedule"></a>.
 <br/><br/>
-:star: <span style="font-weight: bold;">[Aug 2018]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> My doctoral dissertation is now publicly available for download in the <a href="https://repository.asu.edu/items/50115">ASU Digital Repostory</a>.
+:star: <span style="font-weight: bold;">[Aug 2018]</span>   My doctoral dissertation is now publicly available for download in the <a href="https://repository.asu.edu/items/50115">ASU Digital Repostory</a>.
 <br/><br/>
-:star: <span style="font-weight: bold;">[Aug 2018]</span>  <span style="color:red;"> !NEW! :hotsprings: :hotsprings:</span> We presented this <a href="https://drive.google.com/file/d/1ZwNZDw656IHWb4FLb0pcDltn9rrTHZlg/view?usp=sharing">poster</a> for "Combining Knowledge and Reasoning through Probabilistic Soft Logic for Image Puzzle Solving" in UAI 2018.
+:star: <span style="font-weight: bold;">[Aug 2018]</span>  We presented this <a href="https://drive.google.com/file/d/1ZwNZDw656IHWb4FLb0pcDltn9rrTHZlg/view?usp=sharing">poster</a> for "Combining Knowledge and Reasoning through Probabilistic Soft Logic for Image Puzzle Solving" in UAI 2018.
 <br/><br/>
 :star: <span style="font-weight: bold;">[June 2018]</span>  Successfully defended my thesis. My slides are available on <a href="https://www.dropbox.com/s/xzkr2c7r95wgkpq/PhDDefenseTalk2018.pdf?dl=0">dropbox</a>.
 <br/><br/>
